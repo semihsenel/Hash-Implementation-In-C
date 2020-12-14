@@ -23,3 +23,11 @@
 <li>Loadfactor her yeni eklenen kelime için ekrana yazdırılacak. LoadFactor 0.8’i geçtiğinde kullanıcıya UYARI MESAJI gösterilecek. LoadFactor 1.0 olduğunda EKLEME işlemini DURDURALACAK ve dosyada EKLENEMEYEN kelimeler EKRANA yazdırılacak.</li>
 <li>LoadFactor'ün son değeri dosyada saklanıyor. Yeni eklenen kelmeler için güncelleniyor.</li>
 </ul>
+
+## Examples
+<img src="SS/2_1.PNG" style="float:left"/>
+<img src="SS/3.PNG" style="float:left"/>
+<img src="SS/4.PNG" style="float:right"/>
+<img src="SS/5.PNG" style="float:left"/>
+<img src="SS/6.PNG" style="float:right"/>
+<img src="SS/8.PNG" style="float:right"/>
