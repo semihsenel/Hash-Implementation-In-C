@@ -24,7 +24,7 @@
 <li>LoadFactor'ün son değeri dosyada saklanıyor. Yeni eklenen kelmeler için güncelleniyor.</li>
 </ul>
 
-## Examples
+## Örnek Çıktılar
 <img src="SS/2_1.PNG" style="float:left"/>
 <img src="SS/3.PNG" style="float:left"/>
 <img src="SS/4.PNG" style="float:right"/>
