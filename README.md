@@ -16,6 +16,7 @@
 <li>Dosyaların içinde sadece kelimeler olduğu, özel karakterlerin olmadığı varsayılmıştır. Kelimeler küçük-büyük harf karışık olabilir. Örneğin "Araba" ve "araba" aynı kelimelerdir. Kelimeleri sayıya çevirirken Horner Metodu kullanılacaktır.</li>
 <li>Tablonun uzunluğu gösteren **M** değerini 1000 değerine en yakın Asal sayı olarak alıyoruz. (997)</li>
 </ul>
+
 ## Önemli Notlar
 <ul>
 <li>h2 fonksiyonunda MM = M - 1 olarak aldık.</li>
